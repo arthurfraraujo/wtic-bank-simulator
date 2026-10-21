@@ -1,0 +1,120 @@
+# =========================
+# OS
+# =========================
+
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# =========================
+# Editors / IDEs
+# =========================
+
+.vscode/
+.idea/
+
+*.swp
+*.swo
+*~
+
+# =========================
+# Logs
+# =========================
+
+*.log
+logs/
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# =========================
+# Environment Variables
+# =========================
+
+.env
+.env.*
+!.env.example
+
+# =========================
+# Python
+# =========================
+
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+.venv/
+venv/
+env/
+
+dist/
+build/
+*.egg-info/
+
+# =========================
+# Node.js
+# =========================
+
+node_modules/
+
+.npm/
+.pnpm-store/
+
+.next/
+.nuxt/
+.svelte-kit/
+
+coverage/
+
+# =========================
+# Java
+# =========================
+
+target/
+*.class
+
+# =========================
+# Archives
+# =========================
+
+*.zip
+*.tar
+*.gz
+*.rar
+*.7z
+
+# =========================
+# Temporary files
+# =========================
+
+tmp/
+temp/
+
+# =========================
+# Local databases
+# =========================
+
+*.sqlite
+*.sqlite3
+*.db
+
+# Jupyter
+.ipynb_checkpoints/
+
+# PyCharm
+.idea/
+
+# VSCode
+.vscode/
+
+# Secrets
+secrets.*
+credentials.*
