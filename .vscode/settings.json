@@ -1,3 +1,5 @@
 {
-    "python.pythonPath": "C:\\Users\\arthu\\AppData\\Local\\Programs\\Python\\Python39\\python.exe"
+    "python.pythonPath": "C:\\Users\\arthu\\AppData\\Local\\Programs\\Python\\Python39\\python.exe",
+    "python.languageServer": "None",
+    "python.analysis.typeCheckingMode": "off"
 }
